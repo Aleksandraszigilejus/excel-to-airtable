@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: excel-to-airtable
-    env: python
-    plan: free
-    buildCommand: ""
-    startCommand: "python main.py"
